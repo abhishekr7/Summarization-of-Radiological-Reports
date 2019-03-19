@@ -1,21 +1,30 @@
 # Summarization-of-Radiological-Reports
 
-Models -
+# Models -
 
-Distributional Approach
+1. Distributional Approach
 
-Neural Sequence-to-Sequence Learning
+2. Neural Seq 2 Seq Learning
 
-Long Term Short Memory(LTSMs)
-
-2 Recurrent Neural Networks
-
-Motivation -
+# Motivation -
 
 https://www.ncbi.nlm.nih.gov/pubmed/22195100
 
-References -
 
-Dataset
+# References -
+
+**Attention**
+
+Keras - Seq2Seq + Attention Tutorial
+https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/
+
+Keras - Attention paper
+https://arxiv.org/pdf/1409.0473.pdf
+
+Keras - Custom Layers
+https://keras.io/layers/writing-your-own-keras-layers/
+
+
+# Dataset
 
 765 + 767 + 729 = 2261 reports
