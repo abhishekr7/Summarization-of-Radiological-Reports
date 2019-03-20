@@ -23,6 +23,10 @@ Keras - Attention paper
 
 https://arxiv.org/pdf/1409.0473.pdf
 
+Explanantion
+
+https://medium.com/datalogue/attention-in-keras-1892773a4f22
+
 Keras - Custom Layers
 
 https://keras.io/layers/writing-your-own-keras-layers/
