@@ -31,10 +31,14 @@ Keras - Custom Layers
 
 https://keras.io/layers/writing-your-own-keras-layers/
 
+Example
+
+https://github.com/datalogue/keras-attention/blob/master/models/custom_recurrents.py
+
 GRUs explanation
 
 https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 
 # Dataset
 
-765 + 767 + 729 = 2261 reports
+765 + 767 + 729 = 2261 reports (more to come :-)
