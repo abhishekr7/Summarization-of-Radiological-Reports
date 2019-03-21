@@ -31,6 +31,9 @@ Keras - Custom Layers
 
 https://keras.io/layers/writing-your-own-keras-layers/
 
+GRUs explanation
+
+https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 
 # Dataset
 
