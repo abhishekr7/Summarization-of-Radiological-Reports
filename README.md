@@ -42,3 +42,11 @@ https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 # Dataset
 
 765 + 767 + 729 = 2261 reports (more to come :-)
+
+# IMPORTANT 
+
+For future reference
+
+**Start scraping from 3301 - 3400 ( failed after 12-13th report )**
+
+**2-3 reports added from 3401 - 3500 to reach 2500th report mark**
