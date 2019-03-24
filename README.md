@@ -39,6 +39,11 @@ GRUs explanation
 
 https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
 
+Model prediction on a single example
+
+https://datascience.stackexchange.com/questions/13461/how-can-i-get-prediction-for-only-one-instance-in-keras
+
+
 # Dataset
 
 765 + 767 + 729 = 2261 reports (more to come :-)
