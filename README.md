@@ -15,12 +15,11 @@ Refer to [this](https://www.ncbi.nlm.nih.gov/pubmed/22195100) report for additio
 # Reference
 The idea is based on [this](https://arxiv.org/abs/1809.04698) paper 
     
-# Components 
+# Dataset
 
-**crawler.ipynb**
-
-Python script used to scrape data from the [Open-i National Library of Medicine -  National Institues of Health website](https://openi.nlm.nih.gov/)
+A compilation of approx. 2700 unique reports collected from the [Open-i National Library of Medicine -  National Institues of Health](https://openi.nlm.nih.gov/)
     
+# Components
 
 **model.ipynb**
    
