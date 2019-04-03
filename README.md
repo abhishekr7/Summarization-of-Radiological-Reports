@@ -1,57 +1,27 @@
-# Summarization-of-Radiological-Reports
+# Summarizing Radiology Reports using Neural Sequence to Sequence Learning
 
-# Models -
 
-1. Distributional Approach
-
-2. Neural Seq 2 Seq Learning
+# Model -
+  **Neural Sequence to Sequence Learning**
+    
+    An encoder decoder GRU-based architecture supplemented by an additional Attention based mechanism
 
 # Motivation -
+    1. Redundancy
+    2. Factor of Human-Error
+    3. A time consuming task
+Refer to [this](https://www.ncbi.nlm.nih.gov/pubmed/22195100) report for additional information
 
-https://www.ncbi.nlm.nih.gov/pubmed/22195100
+# Reference
+The idea is based on [this](https://arxiv.org/abs/1809.04698) paper 
+    
+# Components 
 
+**crawler.ipynb**
 
-# References -
+Python script used to scrape data from the [Open-i National Library of Medicine -  National Institues of Health website](https://openi.nlm.nih.gov/)
+    
 
-**Attention**
-
-Keras - Seq2Seq + Attention Tutorial
-
-https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/
-
-Keras - Attention paper
-
-https://arxiv.org/pdf/1409.0473.pdf
-
-Explanantion
-
-https://medium.com/datalogue/attention-in-keras-1892773a4f22
-
-Keras - Custom Layers
-
-https://keras.io/layers/writing-your-own-keras-layers/
-
-Example
-
-https://github.com/datalogue/keras-attention/blob/master/models/custom_recurrents.py
-
-GRUs explanation
-
-https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be
-
-Model prediction on a single example
-
-https://datascience.stackexchange.com/questions/13461/how-can-i-get-prediction-for-only-one-instance-in-keras
-
-
-# Dataset
-
-765 + 767 + 729 = 2261 reports (more to come :-)
-
-# IMPORTANT 
-
-For future reference
-
-**Start scraping from 3301 - 3400 ( failed after 12-13th report )**
-
-**2-3 reports added from 3401 - 3500 to reach 2500th report mark**
+**model.ipynb**
+   
+   The code corresponding to the actual model 
