@@ -19,8 +19,11 @@ The idea is based on [this](https://arxiv.org/abs/1809.04698) paper
 
 A compilation of approx. 2700 unique reports collected from the [Open-i National Library of Medicine -  National Institues of Health](https://openi.nlm.nih.gov/)
     
-# Components
+# Vanilla Encoder-Decoder with LSTM
 
-**model.ipynb**
-   
-   The code corresponding to the actual model 
+    Validation split => 0.1
+    Epochs => 30 
+    Optimizer => Adam
+
+![alt text](https://github.com/abhishekr7/report-summarizer/blob/master/IMG_20190404_231206.png)
+
