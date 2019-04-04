@@ -19,7 +19,7 @@ The idea is based on [this](https://arxiv.org/abs/1809.04698) paper
 
 A compilation of approx. 2700 unique reports collected from the [Open-i National Library of Medicine -  National Institues of Health](https://openi.nlm.nih.gov/)
     
-# Vanilla Encoder-Decoder with LSTM
+# Vanilla Encoder-Decoder with GRU
 
     Validation split => 0.1
     Epochs => 30 
