@@ -25,5 +25,5 @@ A compilation of approx. 2700 unique reports collected from the [Open-i National
     Epochs => 30 
     Optimizer => Adam
 
-![alt text](https://github.com/abhishekr7/report-summarizer/blob/master/IMG_20190404_231206.png)
+![alt text](https://github.com/abhishekr7/report-summarizer/blob/master/IMG_20190406_153452.png)
 
